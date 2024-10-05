@@ -1,0 +1,92 @@
+colorScheme = "cat"
+defaultAppearance = "dark"
+autoSwitchAppearance = false
+enableSearch = true
+enableCodeCopy = true
+replyByEmail = false
+disableImageOptimization = true
+disableTextInHeader = false
+highlightCurrentMenuArea = true
+giteaDefaultServer = "https://git.fsfe.org"
+forgejoDefaultServer = "https://v8.next.forgejo.org"
+defaultBackgroundImage = "devops.jpg"
+smartTOC=true
+showViews = false
+showLikes = true
+
+[header]
+layout = "fixed"
+
+[footer]
+showMenu = true
+showCopyright = true
+showThemeAttribution = true
+showAppearanceSwitcher = true
+showScrollToTop = true
+
+[homepage]
+layout = "background"
+homepageImage = "devops.jpg"
+showRecent = true
+showRecentItems = 15
+showMoreLink = true
+showMoreLinkDest = "/posts/"
+cardView = true
+cardViewScreenWidth = false
+layoutBackgroundBlur = true
+
+
+[article]
+showHero = true
+heroStyle = "background"
+showSummary = true
+showTableOfContents = true
+showRelatedContent = true
+relatedContentLimit = 3
+layoutBackgroundBlur = true
+showPagination = true
+sharingLinks = ["linkedin","whatsapp","telegram"]
+showViews = false
+showLikes = true
+
+[list]
+showCards = true
+groupByYear = false
+cardView = true
+showSummary = true
+
+
+[sitemap]
+excludedKinds = [ "taxonomy", "term" ]
+
+[taxonomy]
+showTermCount = true
+showHero = false
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = false
+cardView = false
+disableTextInHeader = true
+
+[term]
+showHero = false
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = true
+groupByYear = false
+cardView = false
+cardViewScreenWidth = false
+
+[firebase]
+
+[fathomAnalytics]
+
+[umamiAnalytics]
+
+[selineAnalytics]
+
+[buymeacoffee]
+
+[verification]

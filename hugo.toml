@@ -1,0 +1,3 @@
+baseURL = 'https://warranty-v01d.pages.dev/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
