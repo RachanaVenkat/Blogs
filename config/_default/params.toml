@@ -25,7 +25,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "background"
+layout = "hero"
 homepageImage = "devops.jpg"
 showRecent = true
 showRecentItems = 15
