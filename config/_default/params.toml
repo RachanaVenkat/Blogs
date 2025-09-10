@@ -9,7 +9,7 @@ disableTextInHeader = false
 highlightCurrentMenuArea = true
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
-defaultBackgroundImage = "devops.jpg"
+defaultBackgroundImage = "devops.png"
 smartTOC=true
 showViews = false
 showLikes = true
@@ -25,7 +25,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "hero"
+layout = "background"
 homepageImage = "devops.png"
 showRecent = true
 showRecentItems = 15
