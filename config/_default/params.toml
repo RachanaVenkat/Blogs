@@ -45,7 +45,7 @@ showRelatedContent = true
 relatedContentLimit = 3
 layoutBackgroundBlur = true
 showPagination = true
-sharingLinks = ["linkedin","whatsapp","telegram"]
+#sharingLinks = ["linkedin","whatsapp","telegram"]
 showViews = false
 showLikes = true
 

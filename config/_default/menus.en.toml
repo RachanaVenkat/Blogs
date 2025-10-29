@@ -20,10 +20,11 @@
   pageRef = "about"
   weight = 20
 
-#[[main]]
-#  name = "Resume"
-#  pageRef = "resume"
-#  weight = 20
+[[main]]
+ pre = "download"
+ name = "Resume"
+ url = "https://drive.google.com/file/d/1_oWyEAB9ZDBtGlrnTSg6bawLrSt-g-oa/view?usp=sharing"
+ weight = 20
 
 [[main]]
   pre = "github"
