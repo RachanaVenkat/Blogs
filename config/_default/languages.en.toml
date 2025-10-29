@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title="Rachana's blogs"
+#title="Rachana's blogs"
 #description = "Net, Life and The Meaning of it All"
 
 
