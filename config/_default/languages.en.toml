@@ -11,7 +11,7 @@ title="Rachana's blogs"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  #logo = "Warranty_inv-cropped.svg"
+  logo = "android-chrome.png"
   #secondaryLogo = "Warranty_cropped.svg"
   # copyright = "Copy, _right?_ :thinking_face:"
 
