@@ -11,15 +11,13 @@ lastmod: 2024-09-18T18:27:54.535Z
   loop=true
   lifeLike=true
 >}}
-I'm Rachana, I'm Passionate about DevOps, cloud technologies."
-Devops Engineer
-Cloud Engineer
+I am Rachana, I'm Passionate about all things DevOps and Cloud.
+DevOps 
+Networking
+Cloud Architecture
 {{< /typeit >}}
 
-As an AWS Solutions Architect certified professional and a Computer Science student, I'm passionate about cloud computing and DevOps. Join me as I continue optimizing infrastructure, automating workflows, and scaling applications to new heights.
-
-With the AWS certification under my belt, the journey doesn't stop here—there's always more to build, automate, and innovate!
-
+Building and refining cloud delivery. I focus on optimizing CI/CD, designing secure AWS architectures, implementing highly available Kubernetes clusters, and ensuring performance via solid cloud networking fundamentals.
 
 
 ![aws.png](aws.png)
@@ -27,7 +25,7 @@ With the AWS certification under my belt, the journey doesn't stop here—there'
 
 # Contact 
 
-**[{{< icon "linkedin" >}}](https://www.linkedin.com/in/rachana-v-526397294/)**
+**[{{< icon "linkedin" >}} LinkedIn](https://www.linkedin.com/in/rachana-v-526397294/)**
 
-**[{{< icon "github" >}}](https://github.com/RachanaVenkat)**
+**[{{< icon "github" >}} GitHub](https://github.com/RachanaVenkat)**
 

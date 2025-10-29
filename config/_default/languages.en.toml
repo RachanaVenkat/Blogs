@@ -17,11 +17,11 @@ weight = 1
 
 [params.author]
    name = "Rachana V"
-   email = "adityahebbale@gmail.com"
+   email = "rachanaa.v.01@gmail.com"
    image = "rachana.jpeg"
    imageQuality = 96
    headline = "DevOps Engineer"
-   bio = "AWS SA Certified Cloud & Devops Engineer"
+   bio = "Optimizing and Automating Cloud solutions."
    links = [
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
